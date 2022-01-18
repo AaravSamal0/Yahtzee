@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jajatisamal
+ *
+ */
+module Yahtzee {
+}
